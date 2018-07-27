@@ -7,9 +7,12 @@
   <body>
     <p>
 <?php
+/*Déclaration de la fonction returnTrue*/
   function returnTrue(){
+    /*On retourne la valeur*/
     return true;
   }
+  /*On affiche le contenue de la fonction*/
   echo returnTrue();
  ?>
     </p>
